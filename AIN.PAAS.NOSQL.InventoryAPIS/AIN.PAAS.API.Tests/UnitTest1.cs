@@ -8,7 +8,7 @@ namespace AIN.PAAS.API.Tests
         [Fact]
         public void Test1()
         {
-            // tesing comment for git hub test
+            // git hub test comment
         }
     }
 }
